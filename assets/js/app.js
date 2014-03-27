@@ -10,7 +10,10 @@
         }
     }
 
-    preload(["assets/img/bridge-under-blue-dusk-221855.jpg", "assets/img/Pauley-Pavilion-ext-corner.jpg"]);
+    preload([
+        "assets/img/bridge-under-blue-dusk-221855.jpg",
+        "assets/img/Pauley-Pavilion-ext-corner.jpg"
+    ]);
 
     var presentation = document.getElementById('presentation');
     var deck = bespoke.from('#presentation', {
@@ -22,5 +25,5 @@
         bullets: true,
         progress: true
     });
-    deck.slide();
+
 })();

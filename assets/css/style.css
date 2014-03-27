@@ -1,3 +1,4 @@
+/* normalize the css*/
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, article, summary {
   display: block;
 }
@@ -170,7 +171,6 @@ table {
   border-spacing: 0;
 }
 
-/* Well, with all that normalization out of the way we best get on with things... */
 /* Backgrounds */
 article {
   position: absolute;
@@ -235,7 +235,6 @@ article.intro::before {
   -webkit-filter: blur(0.5px) grayscale(0.3) brightness(0.4);
   -moz-filter: blur(0.5px) grayscale(0.3) brightness(0.4);
   filter: blur(0.5px) grayscale(0.3) brightness(0.4);
-  background-image: url("../img/Yahoo_Sunnyvale_BuildingDSign.jpeg");
   background-image: url("../img/bridge-under-blue-dusk-221855.jpg");
   width: 100%;
   height: 100%;
@@ -275,6 +274,14 @@ article.ucla::before {
   -ms-transform: none;
   -o-transform: none;
   transform: none;
+}
+
+article.growth::before {
+  background-image: url("../img/The-foot-of-big-tree.jpg");
+}
+
+article.summit::before {
+  background-image: url("../img/Mount-Everest3.jpg");
 }
 
 .ucla h1 {
