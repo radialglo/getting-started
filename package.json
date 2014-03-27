@@ -1,0 +1,14 @@
+{
+  "name": "getting-started",
+  "version": "0.1.0",
+  "author": "asu",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-jshint": "~0.6.3",
+    "grunt-contrib-sass": "*",
+    "grunt-htmlhint": "*",
+    "load-grunt-tasks": "~0.2.0"
+  }
+}
