@@ -11,13 +11,14 @@ module.exports = function (grunt) {
         sass: {
             build: {
                 options: {
-                    style: 'expanded'
+                    style: 'expanded',
+                    compass: true
                 },
                 files: [{
                     expand: true,
-                    cwd: 'scss/',
+                    cwd: 'assets/scss/',
                     src: ['*.scss'],
-                    dest: 'css/',
+                    dest: 'assets/css/',
                     ext: '.css',
                 }]
             }
@@ -28,11 +29,13 @@ module.exports = function (grunt) {
                 files: ['index.html'],
                 tasks: ['htmlhint']
             },
-            js: {
-                files: ['assets/**/*.js'],
+            scripts: {
+                files: ['Gruntfile.js', 'assets/js/*.js'],
+                tasks: ['jshint']
             },
             css: {
                 files: ['assets/scss/*.scss'],
+                tasks: ['sass']
             }
         },
         jshint: {
@@ -55,7 +58,8 @@ module.exports = function (grunt) {
                 "indent": 4,
                 "globals": {
                     "require": true,
-                    "module": true
+                    "module": true,
+                    "bespoke": true
                 }
             },
             all: {

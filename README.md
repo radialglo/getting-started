@@ -6,4 +6,4 @@
 getting-started
 ===============
 
-Slide Deck for UCLA Extension talk about getting started with JavaScript
+Slide Deck for UCLA Extension talk about getting started with Front End Development
