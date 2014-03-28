@@ -13,6 +13,7 @@
     preload([
         "assets/img/bridge-under-blue-dusk-221855.jpg",
         "assets/img/Pauley-Pavilion-ext-corner.jpg"
+        // add more preload information
     ]);
 
     var presentation = document.getElementById('presentation');

@@ -62,6 +62,16 @@ article {
         margin: 0;
         @include transform(none);
     }
+
+    &.fin {
+       h1 {
+        font-style: italic;
+       }
+    }
+}
+
+.full-img {
+    height: 500px;
 }
 
 img {

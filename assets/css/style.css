@@ -225,6 +225,13 @@ article.yahoo::before {
   -o-transform: none;
   transform: none;
 }
+article.fin h1 {
+  font-style: italic;
+}
+
+.full-img {
+  height: 500px;
+}
 
 img {
   display: block;
