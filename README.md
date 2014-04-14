@@ -28,13 +28,16 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
 - [JavaScript: The Definitive Guide](http://www.amazon.com/JavaScript-Definitive-Guide-David-Flanagan/dp/0596000480) *by David Flanagan*
 - [Secrets of the JavaScript Ninja](http://jsninja.com/) by [John Resig](http://ejohn.org/) and [Bear Bibeault](http://www.bibeault.org/)
 - [JavaScript Patterns](http://shop.oreilly.com/product/9780596806767.do) by [Stoyan Stefanov](http://www.phpied.com/)
-- [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#introduction)
+- [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#introduction) by [Addy Osmani](http://addyosmani.com/blog/)
 - [Maintainable Javascript](http://shop.oreilly.com/product/0636920025245.do) by [Nicholas Zakas](http://www.nczonline.net/)
 - [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) by [Nicholas Zakas](http://www.nczonline.net/)
 - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by [Douglas Crockford](http://javascript.crockford.com/)
 
 ### Online publications 
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
+  - *tip* use `mdn` to prefix your search : `mdn forEach`
 - [Smashing Magazine](http://www.smashingmagazine.com/)
 - [Codrops](http://tympanus.net/codrops/)
 - [A List Apart](http://alistapart.com/)
@@ -48,6 +51,7 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
 - [Patternify](http://www.patternify.com/) *CSS Pattern Generator*
 - [Subtle Patterns](http://subtlepatterns.com/) *Resource for high quality tilable textures*
 - [Gradient Generator](http://www.colorzilla.com/gradient-editor/) by [Colorzilla](http://www.colorzilla.com/)
+- [Can I Use](http://caniuse.com/) and [PPK's Browser Compatibility Table](http://www.quirksmode.org/compatibility.html)
 
 ## Credits
 Design inspired by and based on [https://github.com/afabbro/jsconf2013](https://github.com/afabbro/jsconf2013) and [http://geelen.github.io/web-directions-talk/](http://geelen.github.io/web-directions-talk/)
