@@ -48,6 +48,7 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
 
 ### Tools
 - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/docs/dom-and-styles)
+- [Web Page Test](http://www.webpagetest.org/)
 - [Patternify](http://www.patternify.com/) *CSS Pattern Generator*
 - [Subtle Patterns](http://subtlepatterns.com/) *Resource for high quality tilable textures*
 - [Gradient Generator](http://www.colorzilla.com/gradient-editor/) by [Colorzilla](http://www.colorzilla.com/)
