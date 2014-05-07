@@ -35,6 +35,9 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by [Douglas Crockford](http://javascript.crockford.com/)
 
+### Web Design
+- [Designing for the Web](http://www.designingfortheweb.co.uk/) by [Mark Boulton](https://markboulton.co.uk/)
+
 ### Online publications 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
   - *tip* use `mdn` to prefix your search : `mdn forEach`
@@ -48,6 +51,7 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
 
 ### Tools
 - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/docs/dom-and-styles)
+- [Web Developer Tools](http://chrispederick.com/work/web-developer/) by [Chris Pederick](http://chrispederick.com/)
 - [Web Page Test](http://www.webpagetest.org/)
 - [Patternify](http://www.patternify.com/) *CSS Pattern Generator*
 - [Subtle Patterns](http://subtlepatterns.com/) *Resource for high quality tilable textures*
