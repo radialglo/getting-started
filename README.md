@@ -48,6 +48,7 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
 ### Other
 - [High Performance Websites](http://www.amazon.com/gp/product/0596529309?ie=UTF8&tag=stevsoud-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596529309) by [Steve Sounders](http://stevesouders.com/)
 - [Even faster websites](http://www.amazon.com/Even-Faster-Web-Sites-Performance/dp/0596522304)  by [Steve Sounders](http://stevesouders.com/)
+- [Easing functions](http://www.robertpenner.com/easing/) by [Robert Penner](http://robertpenner.com/)
 
 ### Tools
 - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/docs/dom-and-styles)
