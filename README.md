@@ -23,6 +23,7 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
  - [Handcrafted CSS](http://handcraftedcss.com/) by [Dan Cederholm](http://simplebits.com/)
  - [Bulletproof Web Design](http://www.simplebits.com/publications/bulletproof/)  by [Dan Cederholm](http://simplebits.com/)
  - [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design) by [Ethan Marcotte](http://ethanmarcotte.com/)
+ - [Introduction to CSS 3D Transform](http://desandro.github.io/3dtransforms/) by [David Desandro](http://v3.desandro.com/)
 
 ### JavaScript
 - [JavaScript: The Definitive Guide](http://www.amazon.com/JavaScript-Definitive-Guide-David-Flanagan/dp/0596000480) *by David Flanagan*
@@ -53,6 +54,7 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
 - [Subtle Patterns](http://subtlepatterns.com/) *Resource for high quality tilable textures*
 - [Gradient Generator](http://www.colorzilla.com/gradient-editor/) by [Colorzilla](http://www.colorzilla.com/)
 - [Can I Use](http://caniuse.com/) and [PPK's Browser Compatibility Table](http://www.quirksmode.org/compatibility.html)
+- [editor.method.ac](http://editor.method.ac/)
 
 ## Credits
 Design inspired by and based on [https://github.com/afabbro/jsconf2013](https://github.com/afabbro/jsconf2013) and [http://geelen.github.io/web-directions-talk/](http://geelen.github.io/web-directions-talk/)
