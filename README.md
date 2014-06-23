@@ -36,6 +36,9 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) by [Douglas Crockford](http://javascript.crockford.com/)
 
+### Web Design
+- [Designing for the Web](http://www.designingfortheweb.co.uk/) by [Mark Boulton](https://markboulton.co.uk/)
+
 ### Online publications 
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
   - *tip* use `mdn` to prefix your search : `mdn forEach`
@@ -46,9 +49,11 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
 ### Other
 - [High Performance Websites](http://www.amazon.com/gp/product/0596529309?ie=UTF8&tag=stevsoud-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596529309) by [Steve Sounders](http://stevesouders.com/)
 - [Even faster websites](http://www.amazon.com/Even-Faster-Web-Sites-Performance/dp/0596522304)  by [Steve Sounders](http://stevesouders.com/)
+- [Easing functions](http://www.robertpenner.com/easing/) by [Robert Penner](http://robertpenner.com/)
 
 ### Tools
 - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/docs/dom-and-styles)
+- [Web Developer Tools](http://chrispederick.com/work/web-developer/) by [Chris Pederick](http://chrispederick.com/)
 - [Web Page Test](http://www.webpagetest.org/)
 - [Patternify](http://www.patternify.com/) *CSS Pattern Generator*
 - [Subtle Patterns](http://subtlepatterns.com/) *Resource for high quality tilable textures*
