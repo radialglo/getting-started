@@ -23,6 +23,7 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
  - [Handcrafted CSS](http://handcraftedcss.com/) by [Dan Cederholm](http://simplebits.com/)
  - [Bulletproof Web Design](http://www.simplebits.com/publications/bulletproof/)  by [Dan Cederholm](http://simplebits.com/)
  - [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design) by [Ethan Marcotte](http://ethanmarcotte.com/)
+ - [Learn CSS Layout](http://learnlayout.com/no-layout.html) by [Greg Smith](http://incompl.com/)
  - [Introduction to CSS 3D Transform](http://desandro.github.io/3dtransforms/) by [David Desandro](http://v3.desandro.com/)
 
 ### JavaScript
