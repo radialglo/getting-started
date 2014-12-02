@@ -52,7 +52,7 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
 - [Even faster websites](http://www.amazon.com/Even-Faster-Web-Sites-Performance/dp/0596522304)  by [Steve Sounders](http://stevesouders.com/)
 - [Easing functions](http://www.robertpenner.com/easing/) by [Robert Penner](http://robertpenner.com/)
 - [Jank Free](http://jankfree.org/)
-
+- [nodeschool](http://nodeschool.io/)
 ### Tools
 - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/docs/dom-and-styles)
 - [Web Developer Tools](http://chrispederick.com/work/web-developer/) by [Chris Pederick](http://chrispederick.com/)
