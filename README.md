@@ -53,10 +53,15 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
 - [Easing functions](http://www.robertpenner.com/easing/) by [Robert Penner](http://robertpenner.com/)
 - [Jank Free](http://jankfree.org/)
 - [nodeschool](http://nodeschool.io/)
+
 ### Tools
 - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/docs/dom-and-styles)
 - [Web Developer Tools](http://chrispederick.com/work/web-developer/) by [Chris Pederick](http://chrispederick.com/)
 - [Web Page Test](http://www.webpagetest.org/)
+- [PageSpeed](https://developers.google.com/speed/pagespeed/insights/)
+- [YSlow](http://yslow.org/)
+- [GTMetrix](http://gtmetrix.com/)
+- [Pingdom Tools](http://tools.pingdom.com/fpt/)
 - [Patternify](http://www.patternify.com/) *CSS Pattern Generator*
 - [Subtle Patterns](http://subtlepatterns.com/) *Resource for high quality tilable textures*
 - [Gradient Generator](http://www.colorzilla.com/gradient-editor/) by [Colorzilla](http://www.colorzilla.com/)
