@@ -25,6 +25,7 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
  - [Responsive Web Design](http://www.abookapart.com/products/responsive-web-design) by [Ethan Marcotte](http://ethanmarcotte.com/)
  - [Learn CSS Layout](http://learnlayout.com/no-layout.html) by [Greg Smith](http://incompl.com/)
  - [Introduction to CSS 3D Transform](http://desandro.github.io/3dtransforms/) by [David Desandro](http://v3.desandro.com/)
+ - [Learn CSS Layout the pendantic way](http://book.mixu.net/css/) by [Mikito Taka](http://mixu.net/)
 
 ### JavaScript
 - [JavaScript: The Definitive Guide](http://www.amazon.com/JavaScript-Definitive-Guide-David-Flanagan/dp/0596000480) *by David Flanagan*
