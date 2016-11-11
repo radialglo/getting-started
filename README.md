@@ -68,7 +68,7 @@ Slide Deck for UCLA Extension talk about getting started with Front End Developm
 - [Gradient Generator](http://www.colorzilla.com/gradient-editor/) by [Colorzilla](http://www.colorzilla.com/)
 - [Can I Use](http://caniuse.com/) and [PPK's Browser Compatibility Table](http://www.quirksmode.org/compatibility.html)
 - [editor.method.ac](http://editor.method.ac/)
-
+- [Chrome Dev Tools 2016](https://umaar.github.io/devtools-animated-2016/)
 ## Credits
 Design inspired by and based on [https://github.com/afabbro/jsconf2013](https://github.com/afabbro/jsconf2013) and [http://geelen.github.io/web-directions-talk/](http://geelen.github.io/web-directions-talk/)
 
